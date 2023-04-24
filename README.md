@@ -1,7 +1,9 @@
 
 
 
-# Espanso autokey builder.  This script allows users to define custom triggers and replacements, which can be used in applications that support trigger-based text replacement. The script outputs a YAML configuration file that can be used to configure the application. ## Usage
+# Espanso autokey builder.  This script allows users to define custom triggers and replacements, which can be used in applications that support trigger-based text replacement. The script outputs a YAML configuration file that can be used to configure the application. 
+
+## Usage
 
 1. Run the script in a Python environment:  python3 Espanso_Generator.py     
 
